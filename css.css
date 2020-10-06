@@ -1,0 +1,104 @@
+/* Centered text */
+    * {
+	                     margin-top: 0;
+	                 }
+	                 body{
+	                     margin-bottom: 5em;
+	                     margin-left: 10em;
+	                     margin-right: 10em;
+	                     font-size: 1.2em;
+	                 }
+	                 
+	                 nav li {
+	                     list-style-type: none;
+	                     padding-right: 50px;
+	                     display: inline;
+	         
+	                 }
+	                 
+	                 nav {
+	                     background-color: #fbefb3;
+	                     padding-top: 0px;
+	                     padding-bottom: 0px;
+	                     line-height: 200%;
+	                     text-align: center;
+	                 }
+	                 
+	                 nav a {
+	                     color: #14ab3f;
+	                     text-decoration: none;
+	                     font-family: Geneva;
+	                     font-weight: bold;
+	             
+	                 }
+	                 
+	                 a:visited {
+	                     color: black;
+	                 }
+	                 
+	                 a:hover {
+	                     color: #ec834a;
+	                 }
+	                 
+	                 h1, h2, h3 {
+	                     font-family: verdana;
+	                     color: #14ab3f;
+	                 }
+	                 
+	                 .attop {
+	                     text-align: center;
+	                     font-size: 1em;
+	                     font-weight: bold;
+	                     color: #14ab3f;
+	                 }
+	                 
+	                 .start {
+	                     font-size: 2.5em;
+	                 }
+	                 
+	                 .list {
+	                     line-height: 3em;
+	                     
+	                 }
+	                 
+	                 .whole {
+	                     text-decoration-line: underline;
+	                     text-decoration-style: double;
+	                 }
+	                 
+	                 figure {
+	                     float: right;
+	                 }
+	                 
+	                 .color {
+	                     color: #ec834a;
+	                 }
+	                 
+	                 #market {
+	                     background-color: #fbefb3;
+	                     color: pink;
+	                     text-decoration: none;
+	                 }
+	                 
+	                 footer {
+	                     border-top: 2px solid black;
+	                 }
+	                 
+	                 address {
+	                     padding-top: 1em;
+	                 }
+	                 
+	                 .atlast {
+	                     text-align: center;
+	                     background-image: url(images/ricepaper.png)
+	                     
+	                 }
+	                 
+	                 #ok {
+	                     text-decoration: none;
+	                     color: #14ab3f;
+	                  }
+	                  
+	                 img{
+	                     vertical-align: middle;
+	                 }
